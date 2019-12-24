@@ -1,0 +1,53 @@
+{
+  "textures": [{
+    "image": "textures.png",
+    "frames": [
+      {
+        "filename": "keyblue",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 2,
+          "w": 60,
+          "h": 36
+        },
+        "spriteSourceSize": {
+          "x": 5,
+          "y": 14,
+          "w": 60,
+          "h": 36
+        },
+        "sourceSize": {
+          "w": 70,
+          "h": 70
+        }
+      },
+      {
+        "filename": "player",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 40,
+          "w": 70,
+          "h": 97
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 70,
+          "h": 97
+        },
+        "sourceSize": {
+          "w": 70,
+          "h": 97
+        }
+      }
+    ]
+  }],
+  "meta": {
+    "app": "Phaser Editor - Atlas Generator",
+    "version": "2"
+  }
+}
